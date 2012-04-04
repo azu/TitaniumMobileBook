@@ -18,5 +18,8 @@ var hoge = function(){
             hoge());
     hoge();
 })();
-console.log("OUT",
-        a, hoge());
+console.log(
+        "OUT",
+        a,
+        hoge()
+);
